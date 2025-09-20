@@ -18,3 +18,5 @@ Model şu 12 kategoride tahmin yapar:
 
 `Batarya, Biyolojik, Kahverengi-Cam, Karton, Kıyafet,
 Yeşil-Cam, Metal, Kağıt, Plastik, Ayakkabı, Çöp, Beyaz-Cam`
+
+!["Uygulama Arayüzü"](Ekran görüntüsü 2025-09-20 182724.png)
